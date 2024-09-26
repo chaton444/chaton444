@@ -1,8 +1,8 @@
-- 👋 ¡Hola! Soy,Fernando Leon Medina
+#👋 ¡Hola! Soy,Fernando Leon Medina
 Soy un desarrollador de software con un enfoque especial en inteligencia artificial y
 desarrollo web.
- 📫 Actualmente estudio en CETI Colomos, Guadalajara, Jalisco, y estoy entusiasmado por explorar nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.
-- 
+📫 Actualmente estudio en CETI Colomos, Guadalajara, Jalisco, y estoy entusiasmado por explorar nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.
+  
 - 👀 🚀 Mis Intereses
 -Inteligencia Artificial: Me apasiona crear soluciones que aprovechen el aprendizaje automático y la visión por computadora.
 -Desarrollo Web: Estoy trabajando con tecnologías modernas como Angular y Spring Boot para construir aplicaciones web completas.
