@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 ¡Hola! Soy,Fernando Leon Medina<br>Soy un desarrollador de software con un enfoque especial en inteligencia artificial y desarrollo web.<br><br>📫 Actualmente estudio en CETI Colomos, Guadalajara, Jalisco, y estoy entusiasmado por explorar nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.<br>  <br># 👀 🚀 Mis Intereses<br>- 🧠Inteligencia Artificial: Me apasiona crear soluciones que aprovechen el aprendizaje automático y la visión por computadora.<br>- 💻Desarrollo Web: Estoy trabajando con tecnologías modernas como Angular y Spring Boot para construir aplicaciones web completas.<br>- ☕Programación en Java: Me apasiona el poder del lenguaje ademas de su inmensa informacion que tiene.<br><br># 🛠️ Habilidades<br>- 🏆Lenguajes de Programación: Python, JavaScript, Java, C/C++,C#,<br>- ⛏Frameworks: Angular, Spring Boot, Node Js, PyTorch<br>- ⚔Herramientas: Git, Visual Studio Code, Netbeans, Postman, Workbench<br>- 👨‍💻Técnicas de IA: Redes Neuronales, Detección de Objetos, Procesamiento de Imágenes, Aprendizaje Automatizado<br><br>
+# 👋 ¡Hola! Soy,Fernando Leon Medina<br>Soy un desarrollador de software con un enfoque especial en inteligencia artificial y desarrollo web.<br><br>📫 Actualmente estudio en CETI Colomos, Guadalajara, Jalisco, y estoy entusiasmado por explorar nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.<br>  
 
 
 # 💻 Tech Stack:
@@ -11,9 +11,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chaton444&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chaton444&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
