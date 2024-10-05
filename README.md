@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy,Fernando Leon Medina<br>Soy un desarrollador de software con un enfoque especial en inteligencia artificial y desarrollo web.<br><br>📚 Actualmente estudio en CETI Colomos, Guadalajara, Jalisco, y estoy entusiasmado por explorar nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.<br> <img align="right" height="130" src="https://media0.giphy.com/media/v0dGnTDFgEr68myH0C/200.webp" /><br>
+# 👋 ¡Hola! Soy,Fernando Leon Medina<br>Soy un desarrollador de software con un enfoque especial en inteligencia artificial y desarrollo web.<br><br>📚 Actualmente estudio en CETI Colomos, Guadalajara, Jalisco, y estoy entusiasmado por explorar nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.<br> <img align="right" height="120" src="https://media0.giphy.com/media/v0dGnTDFgEr68myH0C/200.webp" /><br>
 # 💻 Tech Stack:
 
 <img align="left" height="145" src="https://media2.giphy.com/media/3PqeqVoo248xgxq3p1/200w.webp" /> <br>
