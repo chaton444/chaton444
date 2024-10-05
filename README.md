@@ -18,3 +18,10 @@
 [![](https://visitcount.itsvg.in/api?id=chaton444&icon=7&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/chaton444/chaton444/output/snake.svg" alt="Snake animation" />
+
+###
